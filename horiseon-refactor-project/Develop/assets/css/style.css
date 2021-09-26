@@ -65,7 +65,7 @@ p {
 }
 /*Hero Styles END*/
 
-/*Main Content Section Styles*/
+/*Main Content Section Styles (consolidated similar styles)*/
 .content {
     width: 75%;
     display: inline-block;
@@ -91,7 +91,7 @@ p {
 }
 /*Main Content Section Styles END*/
 
-/*Benefits Sidebar Section Styles*/
+/*Benefits Sidebar Section Styles (consolidated similar styles)*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
