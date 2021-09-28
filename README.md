@@ -1,4 +1,4 @@
-# homework-week-1
+# html-css-code-refactor-project
 
 ## Horiseon Code Refactor
 
